@@ -1,0 +1,1 @@
+Webpack 4 custom template for React App
