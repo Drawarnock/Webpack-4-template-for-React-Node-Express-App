@@ -7,7 +7,6 @@ module.exports = {
     mode: 'development',
     entry: './client/src/index.js',
     devServer: {
-        https: true,
         port: 3000
     },
     output: {
